@@ -1,5 +1,5 @@
 package com.menes.leetcode;
-
+import java.util.*;
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {
         List<Integer> list = new ArrayList<Integer>();
